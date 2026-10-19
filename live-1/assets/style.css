@@ -1,12 +1,14 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   overflow: hidden;
 }
 
-body, html {
+body,
+html {
   width: 100vw;
-  height: 100vh;
+  height: 100dvh;
   background-color: #000;
 }
 
